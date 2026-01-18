@@ -3,8 +3,8 @@
 I'm a B.Tech CSE student at **IIIT Sri City** exploring the depths of systems programming and Linux customization.
 
 - 🔭 I’m currently working on **Linux Desktop enhancements**
-- 🌱 I’m currently learning **C, Verilog, and Digital Logic**
-- 🐧 I use **Fedora/Arch Linux** as my daily driver
+- 🌱 I’m currently learning **C and DSA**
+- 🐧 I use **Fedora Workstation** as my daily driver
 - 🔧 Recent Project: [touchpad-sensitivity-tweak](https://github.com/shivasai573/touchpad-sensitivity-tweak)
 
 ---
